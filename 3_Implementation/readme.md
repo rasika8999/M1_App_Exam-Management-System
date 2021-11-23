@@ -4,7 +4,7 @@
 - LINUX OS
 # Software Setup on Windows OS for C Programming
 ## IDE
-Visula Studio Code for compiling and debuggin the code.
+Visula Studio Code for compiling and debugging the code.
 
 ## Build tools
 - Make Installer from GNUWin32 for automating the build without usign IDE
@@ -18,7 +18,7 @@ Visula Studio Code for compiling and debuggin the code.
 - Unit test
 # Software Setup on Linux OS for C Programming
 ## IDE
-- Visula Studio Code for compiling and debuggin the code.
+- Visula Studio Code for compiling and debugging the code.
 - Compiling and running without IDE
     sudo apt-get update
     sudo apt-get upgrade
