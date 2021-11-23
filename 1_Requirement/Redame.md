@@ -3,6 +3,11 @@
 ## Introduction
 
 In formal education system, examination is the widely accepted method of evaluation of students. Every school, university or any academic institute organizes formal examination to measure the knowledge and skills of its student gained during academic session. But, the current examination system is traditional and is not so effective. This online examination management system project is a proposal for a new system for taking and giving exams.
+
+## Research
+Without an Exam management system, managing and maintaining the details of an student any organization. It will store the details of an student including their background,personal information,educational qualifications and other details.
+
+
 ## Tool Used
 
   - VSCODE
@@ -34,17 +39,20 @@ Due to the flexibility of online examination systems, the cost of the exam per c
 - At Educational level
 
 ### How
-The e-exam system consist of three parts, namely Add student data,view student information & delete unwanted data from database. 
+The details of employees can be easily accessed by add,delete,search and modify in the system at any time. 
 
 
 # Detail requirements
 
 ### High Level Requirements:
-1.Smart phone,Pc.
 
-2.Good internet connection.
+1.To update student required information
 
-3.Login Credentials.
+2.Smart phone,Pc.
+
+3.Good internet connection.
+
+4.Login Credentials.
 
 ### Low Level Requirements:
 1.System feature.
