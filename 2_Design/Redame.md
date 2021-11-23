@@ -5,12 +5,12 @@
 ### High Level Structural Diagram
  ![high level structure](https://user-images.githubusercontent.com/94467725/142768133-7469d9c8-e37f-43e3-aa72-a77456fea1a0.PNG)
  
- --------------------------------------------------------------------------------
+ 
 ### High Level Behavioural Diagram
 
  ![high level behav](https://user-images.githubusercontent.com/94467725/142768284-f5dcb992-d324-4e37-b443-cd70b8d1f244.PNG)
 
----------------------------------------------------------------------------------
+
 ## Low Level Design
 
 ### Low Level Structural Diagram
