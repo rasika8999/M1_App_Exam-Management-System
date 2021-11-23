@@ -6,6 +6,7 @@ In formal education system, examination is the widely accepted method of evaluat
 Without an Exam management system, managing and maintaining the details of an student any organization. It will store the details of an student including their background,personal information,educational qualifications and other details.
 
 ## Cost and Features  
+
 ###  Feature of System
 1.Add the student informatiom.
 2.View the student database.
@@ -28,7 +29,9 @@ Due to the flexibility of online examination systems, the cost of the exam per c
 ### How
 The details of employees can be easily accessed by add,delete,search and modify in the system at any time. 
 
+
 # Detail requirements
+
 ## High Level Requirements 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
@@ -39,8 +42,7 @@ The details of employees can be easily accessed by add,delete,search and modify 
 | H05| To display the details of the existing student | Requirement based | IMPLEMENTED |
 
 ##  Low level Requirements
- 
-| ID | Description | HLR ID | Status (Implemented/Future) |
+ | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | L01 | (1) User should choose the add student option then  personal details can be added (like name, add,birthday date etc.) (3) User can remove his/her details if needed | H01 |  IMPLEMENTED  |
 | L02 | User can update the specific information . | H02 |  IMPLEMENTED  |
