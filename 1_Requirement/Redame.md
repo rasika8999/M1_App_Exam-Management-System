@@ -12,9 +12,11 @@ Without an Exam management system, managing and maintaining the details of an st
 
   - VSCODE
 
+
 ## Cost and Features  
 
 ###  Feature of System
+
 1.Add the student informatiom.
 
 2.View the student database.
@@ -24,27 +26,33 @@ Without an Exam management system, managing and maintaining the details of an st
 4.Udate the credential.
 
 ### Cost
+
 Due to the flexibility of online examination systems, the cost of the exam per candidate is around Rs. 10 to Rs. 50. Meanwhile, for paper-based exams, the cost per candidate is Rs. 300 to Rs. 400.
 
 # SWOT ANALYSIS
  
 ## 4W's and 1'H
-### Who:
+### Who
 - Basically use for Exam section Depertment 
+
+
 ### What
 - Examination Management System has a simple easy to use web-based centralized user interface systsem that is used for storing, retrieving, managing and aggregating examination objects. The system is robust able to handle large amount of data with proper back up disaster recovery .
 ### When 
+
+
 - At the time of examination.
 ### Where
 - At Educational level
+
+
 
 ### How
 The details of employees can be easily accessed by add,delete,search and modify in the system at any time. 
 
 
-
 # Detail requirements
-## High Level Requirements: 
+## High Level Requirements 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
 | H01 | New account creation for new student  and filling the necessary data as well as deleting details if needed. | Requirement based | IMPLEMENTED | 
@@ -53,7 +61,7 @@ The details of employees can be easily accessed by add,delete,search and modify 
 | H04 | Employee should be able to view his/her attendance and leave details | Techincal |  IMPLEMENTED  |
 | H05| To display the details of the existing student | Requirement based | IMPLEMENTED |
 
-##  Low level Requirements:
+##  Low level Requirements
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
