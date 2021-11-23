@@ -42,22 +42,31 @@ Due to the flexibility of online examination systems, the cost of the exam per c
 The details of employees can be easily accessed by add,delete,search and modify in the system at any time. 
 
 
+
 # Detail requirements
+## High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| H01 | New account creation for new student  and filling the necessary data as well as deleting details if needed. | Requirement based | IMPLEMENTED | 
+| H02 | To update student required information | Requirement based |  IMPLEMENTED  |
+| H03 | To find the list of the student | Requirement based |  IMPLEMENTED  |
+| H04 | Employee should be able to view his/her attendance and leave details | Techincal |  IMPLEMENTED  |
+| H05| To display the details of the existing student | Requirement based | IMPLEMENTED |
 
-### High Level Requirements:
+##  Low level Requirements:
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| L01 | (1) User should choose the add student option then  personal details can be added (like name, add,birthday date etc.) (3) User can remove his/her details if needed | H01 |  IMPLEMENTED  |
+| L02 | User can update the specific information . | H02 |  IMPLEMENTED  |
+ 
 
-1.To update student required information
 
-2.Smart phone,Pc.
 
-3.Good internet connection.
 
-4.Login Credentials.
 
-### Low Level Requirements:
-1.System feature.
 
-2.Wireless access. Using wireless devices it is not necessary to have an existing wired network.
+
 
 
 
