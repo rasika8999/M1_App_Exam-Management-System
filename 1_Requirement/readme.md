@@ -17,6 +17,22 @@ Without an Exam management system, managing and maintaining the details of an st
 Due to the flexibility of online examination systems, the cost of the exam per candidate is around Rs. 10 to Rs. 50. Meanwhile, for paper-based exams, the cost per candidate is Rs. 300 to Rs. 400.
 
 # SWOT ANALYSIS
+
+### Strengths
+- Saves Time
+- Save Money
+- Easy to maintain records.
+
+### Weaknesses
+- Cannot came back, once forward to next step
+
+#### Opportunities
+- Can be implemented in any type of management system
+
+### Threats
+- Other Similar Applications
+
+
  ## 4W's and 1'H
 ### Who
 - Basically use for Exam section Depertment 
