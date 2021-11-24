@@ -2,9 +2,9 @@
 ## Code-Inspector Badges
 
 
-|Codacy Badge|Code Quality|Git-Inspector|
+|Codacy Badge|Build Status|Git-Inspector|
 |------------|------------|--------------|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/514b9227232e4190b8624fbd17181560)](https://www.codacy.com/gh/rasika8999/M1_App_Exam-Management-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rasika8999/M1_App_Exam-Management-System&amp;utm_campaign=Badge_Grade)| [![Code Quality - Static Code - Cppcheck](https://github.com/anushka399/M1_App_Click_To_Eat/actions/workflows/CppCheck.yml/badge.svg)](https://github.com/anushka399/M1_App_Click_To_Eat/actions/workflows/CppCheck.yml)|[![Contribution Check - Git Inspector](https://github.com/rasika8999/M1_App_Exam-Management-System/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/rasika8999/M1_App_Exam-Management-System/actions/workflows/Gitinspector.yml)
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/514b9227232e4190b8624fbd17181560)](https://www.codacy.com/gh/rasika8999/M1_App_Exam-Management-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rasika8999/M1_App_Exam-Management-System&amp;utm_campaign=Badge_Grade)| [![C/C++ CI - Build Status](https://github.com/rasika8999/M1_App_Exam-Management-System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/rasika8999/M1_App_Exam-Management-System/actions/workflows/c-cpp.yml)|[![Contribution Check - Git Inspector](https://github.com/rasika8999/M1_App_Exam-Management-System/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/rasika8999/M1_App_Exam-Management-System/actions/workflows/Gitinspector.yml)
 
 ## Folder Structure
 |Folder Structure|Folder	Description|
