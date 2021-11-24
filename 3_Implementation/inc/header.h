@@ -1,4 +1,7 @@
 /**
+@file managemant_operation.h
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -36,33 +39,42 @@ typedef struct
     char studentAddr[MAX_STUDENT_ADDRESS]; 
     Date studentJoiningDate; 
 } s_StudentInfo;
- 
+{ 
 void printMessageCenter(const char* message)
 /** printing message*/
-
- 
+}
+{
 void headMessage(const char *message)
 /* print head message */
- 
+ }
+{
 
  int isNameValid(const char *name)
+ }
 
+{
     
- 
 void addStudentInDataBase()
 /** Adding student database*/
- 
-void viewStudent()
+ }
+
+{
+ void viewStudent()
   /** view the student details*/
+ }
 
-
+{
  void deleteStudent()
 /** delete  student data */
- 
-void updateCredential(void)
+ }
+
+{
+ void updateCredential(void)
 /** update the credential data*/
- 
-void menu()
+ }
+
+{
+ void menu()
 /** selection choice
     
         
@@ -85,13 +97,15 @@ void menu()
            
             break;
        */
+ }
 
-int main()
+{
+ int main()
 /**
     init();
     welcomeMessage();
     login();
     return 0;
 */
-
+ }
 
